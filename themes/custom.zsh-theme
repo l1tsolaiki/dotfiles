@@ -13,5 +13,4 @@ precmd() {
 }
 
 PROMPT="> "
-RPROMPT="%n"
 
